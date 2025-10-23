@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/medical-forms/static/css/main.f855e6bc.css",
+    "main.js": "/medical-forms/static/js/main.1b2fc873.js",
+    "static/js/453.d7446e4a.chunk.js": "/medical-forms/static/js/453.d7446e4a.chunk.js",
+    "index.html": "/medical-forms/index.html",
+    "main.f855e6bc.css.map": "/medical-forms/static/css/main.f855e6bc.css.map",
+    "main.1b2fc873.js.map": "/medical-forms/static/js/main.1b2fc873.js.map",
+    "453.d7446e4a.chunk.js.map": "/medical-forms/static/js/453.d7446e4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1b2fc873.js"
+  ]
+}
